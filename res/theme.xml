@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="6" useXmlUI="false">
+    <image name="BlueBook.png"  />
+    <image name="BlueBottle.png"  />
+    <image name="BlueChair.png"  />
+    <image name="BlueGhost.png"  />
+    <image name="BlueMouse.png"  />
+    <ui name="EnterUserScreen" />
+    <ui name="FinishGameScreen" />
+    <image name="GeistesBlitzLogo-480.png"  />
+    <image name="GrayBook.png"  />
+    <image name="GrayBottle.png"  />
+    <image name="GrayChair.png"  />
+    <image name="GrayGhost.png"  />
+    <image name="GrayMouse.png"  />
+    <image name="GreenBook.png"  />
+    <image name="GreenBottle.png"  />
+    <image name="GreenChair.png"  />
+    <image name="GreenGhost.png"  />
+    <image name="GreenMouse.png"  />
+    <ui name="Main" />
+    <image name="RedBook.png"  />
+    <image name="RedBottle.png"  />
+    <image name="RedChair.png"  />
+    <image name="RedGhost.png"  />
+    <image name="RedMouse.png"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+    </theme>
+    <image name="WhiteBook.png"  />
+    <image name="WhiteBottle.png"  />
+    <image name="WhiteChair.png"  />
+    <image name="WhiteGhost.png"  />
+    <image name="WhiteMouse.png"  />
+</resource>

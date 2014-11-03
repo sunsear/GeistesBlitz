@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="EnterUserScreen" cloudDestinationProperty="EnterUserScreen" >
+  <component type="TextField" name="Player1TextField" cloudBoundProperty="text" cloudDestinationProperty="Player1TextField" text="Player 1" >
+  </component>
+  <component type="TextField" name="Player2TextField" cloudBoundProperty="text" cloudDestinationProperty="Player2TextField" text="Player 2" >
+  </component>
+  <component type="Button" name="EnterUserNamesButton" cloudDestinationProperty="EnterUserNamesButton" text="Go play!" >
+  </component>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="FinishGameScreen" cloudDestinationProperty="FinishGameScreen" >
+  <component type="Label" name="Label" cloudDestinationProperty="Label" text="Winning player is:" >
+  </component>
+  <component type="Label" name="WinningPlayerNameLabel" cloudDestinationProperty="WinningPlayerNameLabel" text="SomePlayerName" >
+  </component>
+  <component type="Button" name="StartGameButton" cloudDestinationProperty="StartGameButton" text="Start a new game!" >
+  </component>
+</component>
